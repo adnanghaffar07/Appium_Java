@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite tests="3">
+    <testcase classname="tests.ARegistrationTest.java" name="test001VerifyRegistrationPage"/>
+    <testcase classname="foo3" name="AFailingTest">
+        <failure type="NotEnoughFoo"> details about failure </failure>
+    </testcase>
+</testsuite>
